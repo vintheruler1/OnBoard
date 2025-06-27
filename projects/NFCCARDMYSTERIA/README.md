@@ -2,7 +2,7 @@
 name: "Vinesh Ramroop"
 slack_handle: "@Vinesh Ramroop"
 github_handle: "@vintheruler1"
-tutorial: [# Link to the tutorial if you used one](https://jams.hackclub.com/jam/hacker-card)
+tutorial: https://jams.hackclub.com/jam/hacker-card
 wokwi: # Link to the Wokwi project if you're submitting for Hacky Holidays
 ---
 
